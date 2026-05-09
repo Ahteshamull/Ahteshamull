@@ -5,10 +5,8 @@
 
 Email Me 👉 ✉️ **ahteshamulhasan2@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Computer Point BD
-- 🌱 **I’m currently learning:** Nextjs
-- 👯 **I’m looking to collaborate on:** Online Store
-- 🤔 **I’m looking for help with:** Chatgpt
+- 🔭 **I’m currently working on:** Spark Tech Agency
+- 🌱 **I’m currently learning:** AI
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** ahteshamulhasan2@gmail.com
 - 😄 **Pronouns:** Wasim Sir
